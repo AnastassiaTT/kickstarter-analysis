@@ -10,6 +10,10 @@ Since Louise wants to know how different campaigns fared in relation to their la
 
 In order to create two graphs to better visualize the outcomes and understand the data, Kickstarter data set was used to create a pivot table which allowed to create two filters to identify the months based on the year of the campaigns, and plays subcategory. Pivot table also allowed me to add columns to organize cancelled, failed and successful number of plays. Once the pivot table was created and filtered in the alphabetical order, a line graph was created to provide visual outcomes and narrow down the analysis. 
 
+<img width="630" alt="Theatre Outcomes based on Launch Date_Pivot" src="https://user-images.githubusercontent.com/107759305/175426851-7459d149-36a0-4bb0-a265-709032137021.png">
+
+<img width="856" alt="Theatre Outcomes Based on launch date_Graph" src="https://user-images.githubusercontent.com/107759305/175427031-fb780683-4715-404c-85a3-8d240dd23500.png">
+
 For the second graph, Excel skills were utilized to find the percentage of successful, failed and canceled plays based on the funding goal amount. A new sheet was created to reflect dollar amount ranges in a left column and 8 columns to reflect a Goal, Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, and Percentage Failed. Then, using the function countifs() and function sum() data was populated to reflect Outcomes Based on Goals. Once I had the data populated, percentages of the data were created. Once all the data was organized, I hid the columns without percentages and created the line graph with goal-amount ranges on the on the x-axis and percentage of the failed, canceled, and successful projects on the y-axis. 
 
 <img width="342" alt="Outcomes based on Goal_Table" src="https://user-images.githubusercontent.com/107759305/175426173-483dff39-796b-4556-9e6d-e0401bbe5a58.png">
