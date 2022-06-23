@@ -12,6 +12,9 @@ In order to create two graphs to better visualize the outcomes and understand th
 
 For the second graph, Excel skills were utilized to find the percentage of successful, failed and canceled plays based on the funding goal amount. A new sheet was created to reflect dollar amount ranges in a left column and 8 columns to reflect a Goal, Number Successful, Number Failed, Number Canceled, Total Projects, Percentage Successful, Percentage Failed, and Percentage Failed. Then, using the function countifs() and function sum() data was populated to reflect Outcomes Based on Goals. Once I had the data populated, percentages of the data were created. Once all the data was organized, I hid the columns without percentages and created the line graph with goal-amount ranges on the on the x-axis and percentage of the failed, canceled, and successful projects on the y-axis. 
 
+<img width="342" alt="Outcomes based on Goal_Table" src="https://user-images.githubusercontent.com/107759305/175426173-483dff39-796b-4556-9e6d-e0401bbe5a58.png">
+
+
 When creating these graphs, mainly there were no major challenges to report. Some possible challenges could have been while creating a pivot table and the fields were entered incorrectly then the data wold not populate in the correct order. With the second deliverable, if there were errors with the countifs() function then the data for the graph may not have been valid. Additionally, if the user would forget to hide the columns that are not percentage columns, it would skew the data for the line graph, because it would be including all of the instead of just percentage related data fields. 
 
 ##Analysis of Outcomes Based on Launch Date
