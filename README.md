@@ -14,7 +14,8 @@ For the second graph, Excel skills were utilized to find the percentage of succe
 
 <img width="342" alt="Outcomes based on Goal_Table" src="https://user-images.githubusercontent.com/107759305/175426173-483dff39-796b-4556-9e6d-e0401bbe5a58.png">
 
-<img width="342" alt="Outcomes based on Goal_Table" src="https://user-images.githubusercontent.com/107759305/175426305-b2cb7688-cd71-43a5-a9ed-54cca089e6c2.png">
+<img width="342" alt="Outcomes based on Goal_Table" src="https://user-images.githubusercontent.com/107759305/175426439-62898df1-9a9f-4161-9ad6-5f76dc95e75b.png">
+
 
 When creating these graphs, mainly there were no major challenges to report. Some possible challenges could have been while creating a pivot table and the fields were entered incorrectly then the data wold not populate in the correct order. With the second deliverable, if there were errors with the countifs() function then the data for the graph may not have been valid. Additionally, if the user would forget to hide the columns that are not percentage columns, it would skew the data for the line graph, because it would be including all of the instead of just percentage related data fields. 
 
